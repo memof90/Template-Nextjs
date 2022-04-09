@@ -142,7 +142,7 @@ const footer = () => {
       </div>
 
       <div className="py-8 container mx-auto flex flex-row justify-between">
-        <p>Copyright 2021 DriverUp Theme by Wael Hassine</p>
+        <p>All rights reserved</p>
         <div className="flex flex-row space-x-3">
           <FaFacebook className="w-5 h-5 text-gray-500" />
           <FaInstagram className="w-5 h-5 text-gray-500" />
