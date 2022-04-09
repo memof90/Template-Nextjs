@@ -1,8 +1,8 @@
 
-# Taxi Driver Company 
+#  Driver Template with next js 
 
 Free NextJs Template for taxi driver made with **NextJs**   and **Tailwindcss**.
-![taxi driver app](https://github.com/waelhassine/DriverUP-Company/blob/main/public/image-taxi-app.png)
+![taxi driver app]()
 
 
 
@@ -19,13 +19,4 @@ Free NextJs Template for taxi driver made with **NextJs**   and **Tailwindcss**.
 -   Start the server:  `npm run start`  or  `yarn start`
 
 
-## License
 
-Distributed under the MIT License. See  [LICENSE](https:google.com)  for more information.
-
-## Contact
-Email Us: [wael.hassine0@gmail.com](mailto:wael.hassine0@gmail.com)
-
-
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
